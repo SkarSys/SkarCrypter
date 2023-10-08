@@ -1,0 +1,17 @@
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.csproj.AssemblyReference.cache
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.Form1.resources
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.csproj.GenerateResource.cache
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.AssemblyInfoInputs.cache
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.AssemblyInfo.cs
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.csproj.CoreCompileInputs.cache
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\bin\Debug\net6.0-windows\SkarCrxpter.exe
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\bin\Debug\net6.0-windows\SkarCrxpter.deps.json
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\bin\Debug\net6.0-windows\SkarCrxpter.runtimeconfig.json
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\bin\Debug\net6.0-windows\SkarCrxpter.dll
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\bin\Debug\net6.0-windows\SkarCrxpter.pdb
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.dll
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\refint\SkarCrxpter.dll
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.pdb
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\SkarCrxpter.genruntimeconfig.cache
+C:\Users\pasca\Desktop\SkarCrxter\SkarCrxpter\obj\Debug\net6.0-windows\ref\SkarCrxpter.dll
